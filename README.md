@@ -36,5 +36,5 @@ mac-etax-package/
 
 ## ライセンス
 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-本パッケージの無断転載・再配布・商用利用を禁じます。
+[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)  
+本パッケージの無断転載・改変・再配布を禁じます。
